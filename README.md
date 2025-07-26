@@ -32,7 +32,7 @@ SQLFormer/
 
 ## 📄 Paper
 
-The full theory and experimental evaluation are in `paper/SQLFormer.pdf`.
+The full theory and experimental evaluation are in `SQLFormer_Paper.pdf`.
 
 ---
 
