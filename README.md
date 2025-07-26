@@ -1,6 +1,6 @@
 # SQLFormer
 
-**SQLFormer** is a declarative framework that emulates transformer inference entirely using standard SQL queries. This repository contains the implementation, full theoretical write-up, SQL scripts, and benchmarking experiments.
+**SQLFormer** is a declarative framework that emulates transformer inference entirely using standard SQL queries.
 
 ---
 
