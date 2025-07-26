@@ -4,35 +4,9 @@
 
 ---
 
-## 🔧 Project Structure
-
-```
-SQLFormer/
-├── code/
-│   ├── sql/
-│   │   ├── schema.sql
-│   │   ├── attention.sql
-│   │   ├── ffn.sql
-│   │   └── layernorm.sql
-├── paper/
-│   └── SQLFormer.pdf
-├── LICENSE
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-1. Load `schema.sql` into your SQL engine (PostgreSQL recommended).
-2. Execute `attention.sql`, `layernorm.sql`, and `ffn.sql` to simulate one forward pass of the transformer.
-3. All components are designed to run in standard SQL (Postgres, DuckDB, SQLite compatible).
-
----
-
 ## 📄 Paper
 
-The full theory and experimental evaluation are in `SQLFormer_paper.pdf`.
+The full theory, code and experimental evaluation are in `SQLFormer_paper.pdf`.
 
 ---
 
